@@ -1,5 +1,5 @@
 # Fun_Game
-Play this small python game made in python.
+Play this small numbers game made in python.
 
 Experience the thrill of... guessing a number between 0 and 7! This "fun" little Python game, meticulously crafted (okay, thrown together), will test your psychic abilities. Or, more likely, your ability to type a number. If you're "lucky" enough to guess correctly, prepare for a big surprise! 
 
